@@ -225,7 +225,7 @@
 			16 - Typed Text in Home Section
 	----------------------------------------------------- */
 	$(".typed-element").typed({
-    	strings: ["Unity Developer.", "MCA Graduate.", "Game Designer."],
+    	strings: ["Unity Developer.", "MCA Graduate.", "Game Developer."],
     	typeSpeed: 30,
     	loop:true,
     	backDelay: 3000
